@@ -50,6 +50,16 @@
           "url": "https://tailwindcss.com/docs/functions-and-directives#variants"
         }
       ]
+    },
+    {
+      "name": "@theme",
+      "description": "Use the `@theme` directive to apply a theme to your components. This is useful when you want to apply a different theme to a specific component.",
+      "references": [
+        {
+          "name": "Tailwind Documentation",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#theme"
+        }
+      ]
     }
   ]
 }
